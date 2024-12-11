@@ -1,0 +1,5 @@
+
+*.pyc
+output
+*.egg-info/
+submodules/simple-knn/build/
