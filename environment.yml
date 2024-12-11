@@ -1,6 +1,5 @@
 name: saga
 channels:
-  - pytorch
   - conda-forge
   - defaults
 dependencies:
@@ -11,7 +10,7 @@ dependencies:
   - hdbscan
   - matplotlib
   - jupyter
-  pip:
+  - pip:
     - dearpygui
     - opencv-python
     - open-clip-torch
