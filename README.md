@@ -11,11 +11,11 @@ The official implementation of [SAGA (Segment Any 3D GAussians)](https://arxiv.o
 # Installation
 The installation of SAGA is similar to [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting).
 ```bash
-git clone git@github.com:Zero-4869/SegAnyGAussians.git
+git clone git@github.com:Zero-4869/SegAnyGAussians.git --recursive
 ```
 or
 ```bash
-git clone https://github.com/Zero-4869/SegAnyGAussians.git
+git clone https://github.com/Zero-4869/SegAnyGAussians.git --recursive
 ```
 Then install the dependencies:
 ```bash
